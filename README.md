@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bessnyda(Nikita).
+- 👋 Hi, I’m @bessnyda (Nikita).
 - 👀 I’m interested in Java.
 - 🌱 I’m currently learning in school.
 - 💞️ I’m looking for collaboration in java language...
