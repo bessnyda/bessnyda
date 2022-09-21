@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bessnyda (Nikita).
-- 👀 I’m interested in Java.
+- 👀 I’m interested in C++, Java.
 - 🌱 I’m currently learning in school.
-- 💞️ I’m looking for collaboration in java language...
+- 💞️ I’m looking for collaboration in C++, Java language...
 - 📫 How to reach me : 
 - I.   Discord: bess#2771
 - II.  Gmail: naturaa47@gmail.com
